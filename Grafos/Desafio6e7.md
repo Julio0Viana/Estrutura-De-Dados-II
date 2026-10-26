@@ -2,6 +2,8 @@
 
 A partir do grafo original $G$ (com vértices $V(G) = \{1, 2, 3, 4\}$ e arestas $E(G) = \{(1,2), (2,3), (3,4), (4,1)\}$), construímos dois subgrafos para validação.
 
+![FOTO 5](Imagem/ImagemA5.png)
+
 ### **Subgrafo $G_1$ (Gerador)**
 Mantém todos os vértices do grafo original, removendo apenas uma aresta.
 - **Vértices:** $V(G_1) = \{1, 2, 3, 4\}$
@@ -19,6 +21,8 @@ Seleciona um subconjunto de vértices e as respectivas arestas entre eles.
 ## 7. Atividade 7 – Desafio da sequência de graus
 
 Construção de um grafo simples com base na sequência solicitada: **$(1, 1, 2, 3, 3, 4, 4, 6)$**.
+
+![FOTO 6](Imagem/ImagemA6.png)
 
 ### **1. Vértices e Graus Obtidos**
 Com 8 vértices ($A$ a $H$), obtivemos a seguinte distribuição de graus:

@@ -1,3 +1,5 @@
+![UDF](Imagem/ImagemA.png)
+
 # Material do Estudante – Prática de Grafos
 
 **Disciplina:** Estrutura de Dados II | **Unidade III:** Grafos  
@@ -9,6 +11,8 @@
 ## 1. Atividade 1 – Desenhando um grafo
 
 Considerando $V = \{1, 2, 3, 4, 5\}$ e $E = \\{(1,2), (1,4), (1,5), (2,3), (3,4), (4,4)\\}$:
+
+![FOTO 1](Imagem/ImagemA1.png)
 
 - **Ordem:** 5  
 - **Tamanho:** 6  
@@ -43,6 +47,8 @@ Considerando $V = \{1, 2, 3, 4, 5\}$ e $E = \\{(1,2), (1,4), (1,5), (2,3), (3,4)
 
 Considerando o grupo (João, Carolina, Maria, Marcos):
 
+![FOTO 2](Imagem/ImagemA2.png)
+
 ### 1. Definições
 - $V = \\{\text{CAROLINA, MARIA, JOÃO, MARCOS}\\}$
 - $E = \\{(\text{CAROLINA, MARIA}), (\text{MARIA, CAROLINA}), (\text{CAROLINA, JOÃO}), (\text{JOÃO, CAROLINA}), (\text{JOÃO, MARIA}), (\text{MARCOS, JOÃO}\\}$
@@ -57,6 +63,8 @@ Calculado por $\text{Grau Total} = \text{Entrada} + \text{Saída}$:
 ---
 
 ## 4. Atividade 4 – Modelagem de ruas de mão única
+
+![FOTO 3](Imagem/ImagemA3.png)
 
 ### 1. Definições
 - $V = \\{A, B, C, D\\}$
@@ -75,6 +83,8 @@ O grafo não dirigido implicaria mão dupla em todas as vias. O grafo dirigido �
 Comparando $G$ e $H$:
 - **Ordem e Tamanho:** $|V(G)| = |V(H)| = 4$ e $|E(G)| = |E(H)| = 4$.
 - **Graus:** Todos os vértices de ambos os grafos possuem grau $2$.
+
+![FOTO 4](Imagem/ImagemA4.png)
 
 ### 1. Mapeamento ($f: V(G) \to V(H)$)
 | Vértice em G | Correspondente em H |
