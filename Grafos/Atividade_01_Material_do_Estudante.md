@@ -84,7 +84,7 @@ Comparando $G$ e $H$:
 - **Ordem e Tamanho:** $|V(G)| = |V(H)| = 4$ e $|E(G)| = |E(H)| = 4$.
 - **Graus:** Todos os vértices de ambos os grafos possuem grau $2$.
 
-![FOTO 4](Imagem/ImagemA4.png)
+![FOTO 4](Imagem/ImagemA.png)
 
 ### 1. Mapeamento ($f: V(G) \to V(H)$)
 | Vértice em G | Correspondente em H |
