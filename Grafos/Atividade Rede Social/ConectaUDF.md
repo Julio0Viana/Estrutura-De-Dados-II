@@ -15,7 +15,7 @@
 * Usar Python para automatizar os cálculos.
 * **Atividade Prática:** Adicionar 4 usuários fictícios, criar pelo menos 5 novas amizades, atualizar o grafo e o código, e comparar os graus e a densidade antes e depois.
 
-## 1. Grafo Atualizado (Rede Expandida com 15 Usuários)
+## 1. Grafo Atualizado (Rede Expandida com 20 Usuários)
 
 Abaixo está a representação visual da rede social expandida com os novos usuários (Kátia,Gabi,Nicolas,Hugo,Igor,Lucas,Mariana,Olivia,Julia) e as novas conexões:
 
