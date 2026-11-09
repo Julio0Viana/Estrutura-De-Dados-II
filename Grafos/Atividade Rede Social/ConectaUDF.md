@@ -128,7 +128,7 @@ print(f"Usuarios: {n} | Amizades: {E} | Densidade: {D:.2%}")
 
 
 
-* **Conclusões:**
+## **Conclusões:**
 * Enquanto existiu aumento no número de pessoas(nós) e amizades(arestas) em relação a  estrutura original, diminuiu o percentual das conexões possíveis. Logo, isso mostra  que a rede se expandiu com o número de conexões sendo menor do que antes.
 * As pessoas mais conectadas da rede são Elisa e Hugo
 *  Pensando em como a rede social do Instagram funciona podemos analisar a lógica de recomendação e  conectar a lógica do grafo ao tentar responder a pergunta "Como sugerir amizade usando amigos e comum?". Por exemplo: no grafo Ana não conhece a Elisa, mas,  Elisa conhece  Carla e Kátia, conexões de Ana, então, como elas têm conexões em comum a rede social deve fazer Elisa aparecer como uma recomendação para Ana e vice-versa. Outro exemplo: Carla e Diego possuem algumas conexões em comum(Bruno e Elisa), então Carla deve ser uma recomendação de conexão para Diego e  vice-versa
