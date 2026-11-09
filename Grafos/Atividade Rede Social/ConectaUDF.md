@@ -23,6 +23,7 @@ Abaixo está a representação visual da rede social expandida com os novos usu�
 
 
 ## 2. Código Python Atualizado
+### LINK DO COLAB: https://colab.research.google.com/drive/1xlz-5g8UOmjVNiOMR9G2MHT5pazlRNFU
 
 ```python
 rede = {
