@@ -19,7 +19,7 @@
 
 ## 1. Grafo Atualizado (Rede Expandida com 20 Usuários)
 
-Abaixo está a representação visual da rede social expandida com os novos usuários (Kátia,Gabi,Nicolas,Hugo,Igor,Lucas,Mariana,Olivia,Julia) e as novas conexões:
+Abaixo está a representação visual da rede social expandida com os novos usuários e as novas conexões:
 
 <img width="1050" height="668" alt="ImagemC1" src="https://github.com/user-attachments/assets/673290a0-b985-4310-85d4-4853347b72b2" />
 
