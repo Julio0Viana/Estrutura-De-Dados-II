@@ -4,7 +4,9 @@
 # MINIPROJETO CONECTA UDF
 
 **Disciplina:** Estrutura de Dados II | Unidade III: Grafos
+
 **Professora:** Kadidja Valéria
+
 **Alunos:** Isaú Júlio, Thales da Mata, Kamile Dias de Oliveira, Thierry Henry
 
 ## Desafio Proposto
